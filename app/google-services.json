@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723173423686",
+    "firebase_url": "https://matchmakingpractice.firebaseio.com",
+    "project_id": "matchmakingpractice",
+    "storage_bucket": "matchmakingpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723173423686:android:97c64fdde7c4893f",
+        "android_client_info": {
+          "package_name": "com.cruz.matchmakingpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723173423686-qe8b5nnvul5e6644gr9nr90pvmodnj1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JXSxZ7P1Fs7kQTpneAdOfdWdeSJEzFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
